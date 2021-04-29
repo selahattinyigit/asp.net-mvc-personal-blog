@@ -1,0 +1,76 @@
+﻿@model IEnumerable<selahattin.Models.blog>
+
+@{
+    ViewBag.Title = "Index";
+    Layout = "~/Views/Shared/_AdminLayout.cshtml";
+}
+<script src="https://code.jquery.com/jquery-1.11.3.min.js" type="text/javascript"></script>
+<script src="https://cdn.datatables.net/1.10.9/js/jquery.dataTables.min.js" type="text/javascript"></script>
+<link rel="stylesheet" href="https://cdn.datatables.net/1.10.9/css/jquery.dataTables.min.css" />
+
+<script type="text/javascript">
+
+            $(document).ready(function() {
+                $('#datatable').dataTable({
+     "language": {
+            "url": "//cdn.datatables.net/plug-ins/9dcbecd42ad/i18n/Turkish.json"
+        }
+
+    });
+            });
+
+</script>
+<p>
+    @Html.ActionLink("Kayıt Ekle", "Create")
+</p>
+<table class="table table-bordered table-responsive-sm" id="datatable">
+    <thead>
+        <tr>
+            <th>
+                #
+            </th>
+            <th>
+                Başlık
+            </th>
+            <th>
+                Resim
+            </th>
+            <th>
+                Yazı
+            </th>
+            <th>
+                Link
+            </th>
+            <th>
+
+            </th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var item in Model)
+        {
+            <tr>
+                <td>
+                    @Html.DisplayFor(modelItem => item.blogId)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.title)
+                </td>
+                <td>
+                    <img src="~/@item.image" width="200" height="100">
+                </td>
+                <td>
+                    @Html.Raw(item.text.Substring(0, 80))
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.link)
+                </td>,
+                <td>
+                    @Html.ActionLink("Düzenle", "Edit", new { id = item.blogId }) |
+
+                    @Html.ActionLink("Sil", "Delete", new { id = item.blogId })
+                </td>
+            </tr>
+        }
+    </tbody>
+</table>

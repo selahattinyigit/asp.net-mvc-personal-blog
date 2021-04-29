@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<edmx:Edmx Version="3.0" xmlns:edmx="http://schemas.microsoft.com/ado/2009/11/edmx">
+ <!-- EF Designer content (DO NOT EDIT MANUALLY BELOW HERE) -->
+  <edmx:Designer xmlns="http://schemas.microsoft.com/ado/2009/11/edmx">
+    <!-- Diagram content (shape and connector positions) -->
+    <edmx:Diagrams>
+      <Diagram DiagramId="a0baf62e32a945b8881131e85da50cc7" Name="Diagram1">
+        <EntityTypeShape EntityType="SelahattinBlogModel.aboutMe" Width="1.5" PointX="0.75" PointY="0.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="SelahattinBlogModel.projects" Width="1.5" PointX="0.625" PointY="3.125" IsExpanded="true" />
+        <EntityTypeShape EntityType="SelahattinBlogModel.siteIdentity" Width="1.5" PointX="4.625" PointY="0.5" />
+        <EntityTypeShape EntityType="SelahattinBlogModel.blog" Width="1.5" PointX="2.5" PointY="0.75" />
+        <EntityTypeShape EntityType="SelahattinBlogModel.adwors" Width="1.5" PointX="0.75" PointY="5.75" />
+        <EntityTypeShape EntityType="SelahattinBlogModel.aboneler" Width="1.5" PointX="3.375" PointY="4.75" />
+      </Diagram>
+    </edmx:Diagrams>
+  </edmx:Designer>
+</edmx:Edmx>

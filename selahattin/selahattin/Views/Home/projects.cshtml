@@ -1,0 +1,87 @@
+﻿@using selahattin.Helper
+@{
+    ViewBag.Title = "Projeler";
+    Layout = "~/Views/Shared/_SiteLayout.cshtml";
+}
+
+<title>@ViewBag.Title - Selahattin YİĞİT</title>
+<link href="~/prjtcs/style.css" rel="stylesheet" />
+<div class="main-wrapper">
+    <section class="cta-section theme-bg-light py-5">
+        <div class="container text-center">
+            <h2 class="heading">Selahattin Blog - Yazılım Geliştiriciler İçin Hazırlanan Bir Kişisel Blog</h2>
+            <div class="intro">Bloğuma hoşgeldiniz. Abone olun ve en son projelerimi gelen kutunuza alın.</div>
+            @using (Html.BeginForm("abone", "Home", FormMethod.Post))
+            {
+
+                <div class="form-inline justify-content-center pt-3">
+                    <div class="form-group signup-form ">
+                        <label class="sr-only" for="semail">E-posta Adresiniz</label>
+                        <input type="email" id="mail" name="mail" class="form-control mr-md-1 semail" placeholder="E-posta giriniz" required>
+                    </div>
+                    <button type="submit" class="btn btn-primary">Abone ol</button>
+
+                </div>
+
+
+            }
+        </div><!--//container-->
+    </section>
+
+
+
+    <!--== Car List Area Start ==-->
+    <section id="car-list-area" class="section-padding">
+        <div class="container">
+
+            <div class="row">
+                <!-- Car List Content Start -->
+                <div class="col-lg-12">
+                    
+                    <div class="car-list-content">
+                        <div class="row">
+                            <!-- Single Car Start -->
+                            @*@foreach (var item in ViewBag.projeler)
+                            {
+                                <div class="col-lg-6 col-md-6">
+                                    <div class="single-car-wrap">
+                                        <div class="car-list-thumb car-thumb-1" style="background-image:url(../../@item.image);">
+
+
+                                        </div>
+                                        <div style="margin:3px;padding-top:20px;">
+                                            <h2><a href="/Projeler/@SeoHelper.ToSeoUrl(item.title)-@item.id">@item.title</a></h2>
+                                            <h class="panel-title" style="background-color:lightgray;border-radius:3px 4px;">@item.category</h>
+                                            <p>@Html.Raw(item.comment.Substring(0, 20))...</p>
+
+                                            <a href="/Projeler/@SeoHelper.ToSeoUrl(item.title)-@item.id" class="btn btn-primary">Daha Fazla</a>
+                                        </div>
+                                    </div>
+                                </div>
+
+                            }*@
+                            @foreach (var item in ViewBag.projeler)
+                            {
+                                <div class="col-md-4">
+                                    <div class="card mb-4 shadow-sm">
+                                    <img src="~/@item.image">
+                                               <div class="card-body">
+                                            <p>@Html.Raw(item.comment.Substring(0, 50))...</p>
+                                            <div class="d-flex justify-content-between align-items-center">
+                                                <div class="btn-group">
+                                                    <a href="/Projeler/@SeoHelper.ToSeoUrl(item.title)-@item.id" class="btn btn-primary">Daha Fazla</a>
+                                                </div>
+
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+                            }
+                                <!-- Page Pagination End -->
+                            </div>
+                        <!-- Car List Content End -->
+                    </div>
+                </div>
+    </section>
+    <!--== Car List Area End ==-->
+</div>

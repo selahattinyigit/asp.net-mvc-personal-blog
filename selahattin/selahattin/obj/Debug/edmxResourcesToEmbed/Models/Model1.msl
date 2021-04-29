@@ -1,0 +1,73 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Mapping Space="C-S" xmlns="http://schemas.microsoft.com/ado/2009/11/mapping/cs">
+  <EntityContainerMapping StorageEntityContainer="SelahattinBlogModelStoreContainer" CdmEntityContainer="SelahattinBlogEntities">
+    <EntitySetMapping Name="aboutMe">
+      <EntityTypeMapping TypeName="SelahattinBlogModel.aboutMe">
+        <MappingFragment StoreEntitySet="aboutMe">
+          <ScalarProperty Name="id" ColumnName="id" />
+          <ScalarProperty Name="text1" ColumnName="text1" />
+          <ScalarProperty Name="image1" ColumnName="image1" />
+          <ScalarProperty Name="text2" ColumnName="text2" />
+          <ScalarProperty Name="image2" ColumnName="image2" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="projects">
+      <EntityTypeMapping TypeName="SelahattinBlogModel.projects">
+        <MappingFragment StoreEntitySet="projects">
+          <ScalarProperty Name="id" ColumnName="id" />
+          <ScalarProperty Name="title" ColumnName="title" />
+          <ScalarProperty Name="comment" ColumnName="comment" />
+          <ScalarProperty Name="image" ColumnName="image" />
+          <ScalarProperty Name="category" ColumnName="category" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="siteIdentity">
+      <EntityTypeMapping TypeName="SelahattinBlogModel.siteIdentity">
+        <MappingFragment StoreEntitySet="siteIdentity">
+          <ScalarProperty Name="codepen" ColumnName="codepen" />
+          <ScalarProperty Name="stacoverflow" ColumnName="stacoverflow" />
+          <ScalarProperty Name="github" ColumnName="github" />
+          <ScalarProperty Name="linkedin" ColumnName="linkedin" />
+          <ScalarProperty Name="instagram" ColumnName="instagram" />
+          <ScalarProperty Name="comment" ColumnName="comment" />
+          <ScalarProperty Name="image" ColumnName="image" />
+          <ScalarProperty Name="name" ColumnName="name" />
+          <ScalarProperty Name="id" ColumnName="id" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="blog">
+      <EntityTypeMapping TypeName="SelahattinBlogModel.blog">
+        <MappingFragment StoreEntitySet="blog">
+          <ScalarProperty Name="link" ColumnName="link" />
+          <ScalarProperty Name="text" ColumnName="text" />
+          <ScalarProperty Name="image" ColumnName="image" />
+          <ScalarProperty Name="title" ColumnName="title" />
+          <ScalarProperty Name="blogId" ColumnName="blogId" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="adwors">
+      <EntityTypeMapping TypeName="SelahattinBlogModel.adwors">
+        <MappingFragment StoreEntitySet="adwors">
+          <ScalarProperty Name="link" ColumnName="link" />
+          <ScalarProperty Name="image" ColumnName="image" />
+          <ScalarProperty Name="comment" ColumnName="comment" />
+          <ScalarProperty Name="title" ColumnName="title" />
+          <ScalarProperty Name="id" ColumnName="id" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="aboneler">
+      <EntityTypeMapping TypeName="SelahattinBlogModel.aboneler">
+        <MappingFragment StoreEntitySet="aboneler">
+          <ScalarProperty Name="date" ColumnName="date" />
+          <ScalarProperty Name="mail" ColumnName="mail" />
+          <ScalarProperty Name="id" ColumnName="id" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+  </EntityContainerMapping>
+</Mapping>

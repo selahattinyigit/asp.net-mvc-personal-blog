@@ -1,0 +1,59 @@
+﻿
+@{
+    ViewBag.Title = "Hakkımda";
+    Layout = "~/Views/Shared/_SiteLayout.cshtml";
+}
+   
+    <title>@ViewBag.Title - Selahattin YİĞİT</title>
+@foreach (var item in ViewBag.about)
+{
+<div class="main-wrapper">
+
+    <article class="blog-post px-3 py-5 p-md-5">
+        <div class="container">
+            <header class="blog-post-header">
+                <h2 class="title mb-2">Hakkımda</h2>
+            </header>
+
+            <div class="blog-post-body">
+
+                @Html.Raw(item.text1)
+
+
+            </div>
+        </div><!--//container-->
+       
+        <div class="container">
+            <div class="blog-post-body">
+                <img class="img-fluid" src="~/@item.image1" alt="selahattin yiğit">
+
+            </div>
+        </div><!--//container-->
+    </article>
+
+    <section class="cta-section theme-bg-light py-5">
+        <div class="container text-center">
+            <h2 class="heading">Bülten</h2>
+            <div class="intro">Bloğuma hoşgeldiniz. Abone olun ve en son blog yazılarımı gelen kutunuza alın.</div>
+          
+            @using (Html.BeginForm("abone", "Home", FormMethod.Post))
+            {
+
+                <div class="signup-form form-inline justify-content-center pt-3">
+                    <div class="form-group">
+                        <label class="sr-only" for="semail">E-posta Adresiniz</label>
+                        <input type="email" id="mail" name="mail" class="form-control mr-md-1 semail" placeholder="E-posta giriniz" required>
+                    </div>
+                    <button type="submit" class="btn btn-primary">Abone ol</button>
+
+                </div>
+
+
+            }
+        </div><!--//container-->
+    </section>
+
+
+
+</div><!--//main-wrapper-->
+}

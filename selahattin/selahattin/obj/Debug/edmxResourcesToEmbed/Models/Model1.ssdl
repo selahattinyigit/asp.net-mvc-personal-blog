@@ -1,0 +1,73 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Schema Namespace="SelahattinBlogModel.Store" Provider="System.Data.SqlClient" ProviderManifestToken="2012" Alias="Self" xmlns:store="http://schemas.microsoft.com/ado/2007/12/edm/EntityStoreSchemaGenerator" xmlns:customannotation="http://schemas.microsoft.com/ado/2013/11/edm/customannotation" xmlns="http://schemas.microsoft.com/ado/2009/11/edm/ssdl">
+  <EntityType Name="aboneler">
+    <Key>
+      <PropertyRef Name="id" />
+    </Key>
+    <Property Name="id" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="mail" Type="nvarchar" MaxLength="50" />
+    <Property Name="date" Type="date" />
+  </EntityType>
+  <EntityType Name="aboutMe">
+    <Key>
+      <PropertyRef Name="id" />
+    </Key>
+    <Property Name="id" Type="int" Nullable="false" />
+    <Property Name="text1" Type="nvarchar(max)" />
+    <Property Name="image1" Type="nvarchar" MaxLength="100" />
+    <Property Name="text2" Type="nvarchar(max)" />
+    <Property Name="image2" Type="nvarchar" MaxLength="100" />
+  </EntityType>
+  <EntityType Name="adwors">
+    <Key>
+      <PropertyRef Name="id" />
+    </Key>
+    <Property Name="id" Type="int" Nullable="false" />
+    <Property Name="title" Type="nvarchar" MaxLength="100" />
+    <Property Name="comment" Type="nvarchar(max)" />
+    <Property Name="image" Type="nvarchar" MaxLength="100" />
+    <Property Name="link" Type="nvarchar" MaxLength="100" />
+  </EntityType>
+  <EntityType Name="blog">
+    <Key>
+      <PropertyRef Name="blogId" />
+    </Key>
+    <Property Name="blogId" Type="int" Nullable="false" StoreGeneratedPattern="Identity" />
+    <Property Name="title" Type="nvarchar" MaxLength="200" />
+    <Property Name="image" Type="nvarchar" MaxLength="100" />
+    <Property Name="text" Type="nvarchar(max)" />
+    <Property Name="link" Type="nvarchar" MaxLength="100" />
+  </EntityType>
+  <EntityType Name="projects">
+    <Key>
+      <PropertyRef Name="id" />
+    </Key>
+    <Property Name="id" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="title" Type="nvarchar" MaxLength="100" />
+    <Property Name="comment" Type="nvarchar(max)" />
+    <Property Name="image" Type="nvarchar" MaxLength="100" />
+    <Property Name="category" Type="nvarchar" MaxLength="100" />
+  </EntityType>
+  <EntityType Name="siteIdentity">
+    <Key>
+      <PropertyRef Name="id" />
+    </Key>
+    <Property Name="id" Type="int" Nullable="false" />
+    <Property Name="name" Type="nvarchar" MaxLength="100" />
+    <Property Name="image" Type="nvarchar" MaxLength="100" />
+    <Property Name="comment" Type="nvarchar(max)" />
+    <Property Name="instagram" Type="nvarchar" MaxLength="100" />
+    <Property Name="linkedin" Type="nvarchar" MaxLength="100" />
+    <Property Name="github" Type="nvarchar" MaxLength="100" />
+    <Property Name="stacoverflow" Type="nvarchar" MaxLength="100" />
+    <Property Name="codepen" Type="nvarchar" MaxLength="100" />
+  </EntityType>
+  <EntityContainer Name="SelahattinBlogModelStoreContainer">
+    <EntitySet Name="aboneler" EntityType="Self.aboneler" Schema="dbo" store:Type="Tables" />
+    <EntitySet Name="aboutMe" EntityType="Self.aboutMe" Schema="dbo" store:Type="Tables" />
+    <EntitySet Name="adwors" EntityType="Self.adwors" Schema="dbo" store:Type="Tables" />
+    <EntitySet Name="blog" EntityType="Self.blog" Schema="dbo" store:Type="Tables" />
+    <EntitySet Name="projects" EntityType="Self.projects" Schema="dbo" store:Type="Tables" />
+    <EntitySet Name="siteIdentity" EntityType="Self.siteIdentity" Schema="dbo" store:Type="Tables" />
+  </EntityContainer>
+</Schema>

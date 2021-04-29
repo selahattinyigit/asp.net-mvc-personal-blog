@@ -1,0 +1,325 @@
+C:\Users\SELAHATTİN\Source\Repos\selahattin\selahattin\bin\selahattin.dll.config
+C:\Users\SELAHATTİN\Source\Repos\selahattin\selahattin\bin\selahattin.dll
+C:\Users\SELAHATTİN\Source\Repos\selahattin\selahattin\bin\selahattin.pdb
+C:\Users\SELAHATTİN\Source\Repos\selahattin\selahattin\bin\roslyn\csc.exe
+C:\Users\SELAHATTİN\Source\Repos\selahattin\selahattin\bin\roslyn\csc.exe.config
+C:\Users\SELAHATTİN\Source\Repos\selahattin\selahattin\bin\roslyn\csc.rsp
+C:\Users\SELAHATTİN\Source\Repos\selahattin\selahattin\bin\roslyn\csi.exe
+C:\Users\SELAHATTİN\Source\Repos\selahattin\selahattin\bin\roslyn\csi.exe.config
+C:\Users\SELAHATTİN\Source\Repos\selahattin\selahattin\bin\roslyn\csi.rsp
+C:\Users\SELAHATTİN\Source\Repos\selahattin\selahattin\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\SELAHATTİN\Source\Repos\selahattin\selahattin\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\SELAHATTİN\Source\Repos\selahattin\selahattin\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\SELAHATTİN\Source\Repos\selahattin\selahattin\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\SELAHATTİN\Source\Repos\selahattin\selahattin\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\SELAHATTİN\Source\Repos\selahattin\selahattin\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\SELAHATTİN\Source\Repos\selahattin\selahattin\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\SELAHATTİN\Source\Repos\selahattin\selahattin\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\SELAHATTİN\Source\Repos\selahattin\selahattin\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\SELAHATTİN\Source\Repos\selahattin\selahattin\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\SELAHATTİN\Source\Repos\selahattin\selahattin\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\SELAHATTİN\Source\Repos\selahattin\selahattin\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\SELAHATTİN\Source\Repos\selahattin\selahattin\bin\roslyn\System.AppContext.dll
+C:\Users\SELAHATTİN\Source\Repos\selahattin\selahattin\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\SELAHATTİN\Source\Repos\selahattin\selahattin\bin\roslyn\System.Console.dll
+C:\Users\SELAHATTİN\Source\Repos\selahattin\selahattin\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\SELAHATTİN\Source\Repos\selahattin\selahattin\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\SELAHATTİN\Source\Repos\selahattin\selahattin\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\SELAHATTİN\Source\Repos\selahattin\selahattin\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\SELAHATTİN\Source\Repos\selahattin\selahattin\bin\roslyn\System.IO.Compression.dll
+C:\Users\SELAHATTİN\Source\Repos\selahattin\selahattin\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\SELAHATTİN\Source\Repos\selahattin\selahattin\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\SELAHATTİN\Source\Repos\selahattin\selahattin\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\SELAHATTİN\Source\Repos\selahattin\selahattin\bin\roslyn\System.Net.Http.dll
+C:\Users\SELAHATTİN\Source\Repos\selahattin\selahattin\bin\roslyn\System.Net.Sockets.dll
+C:\Users\SELAHATTİN\Source\Repos\selahattin\selahattin\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\SELAHATTİN\Source\Repos\selahattin\selahattin\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\SELAHATTİN\Source\Repos\selahattin\selahattin\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\SELAHATTİN\Source\Repos\selahattin\selahattin\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\SELAHATTİN\Source\Repos\selahattin\selahattin\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\SELAHATTİN\Source\Repos\selahattin\selahattin\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\SELAHATTİN\Source\Repos\selahattin\selahattin\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\SELAHATTİN\Source\Repos\selahattin\selahattin\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\SELAHATTİN\Source\Repos\selahattin\selahattin\bin\roslyn\System.ValueTuple.dll
+C:\Users\SELAHATTİN\Source\Repos\selahattin\selahattin\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\SELAHATTİN\Source\Repos\selahattin\selahattin\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\SELAHATTİN\Source\Repos\selahattin\selahattin\bin\roslyn\System.Xml.XPath.dll
+C:\Users\SELAHATTİN\Source\Repos\selahattin\selahattin\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\SELAHATTİN\Source\Repos\selahattin\selahattin\bin\roslyn\vbc.exe
+C:\Users\SELAHATTİN\Source\Repos\selahattin\selahattin\bin\roslyn\vbc.exe.config
+C:\Users\SELAHATTİN\Source\Repos\selahattin\selahattin\bin\roslyn\vbc.rsp
+C:\Users\SELAHATTİN\Source\Repos\selahattin\selahattin\bin\roslyn\VBCSCompiler.exe
+C:\Users\SELAHATTİN\Source\Repos\selahattin\selahattin\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\SELAHATTİN\Source\Repos\selahattin\selahattin\bin\EntityFramework.dll
+C:\Users\SELAHATTİN\Source\Repos\selahattin\selahattin\bin\EntityFramework.SqlServer.dll
+C:\Users\SELAHATTİN\Source\Repos\selahattin\selahattin\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\SELAHATTİN\Source\Repos\selahattin\selahattin\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\SELAHATTİN\Source\Repos\selahattin\selahattin\bin\System.Web.Helpers.dll
+C:\Users\SELAHATTİN\Source\Repos\selahattin\selahattin\bin\System.Web.Mvc.dll
+C:\Users\SELAHATTİN\Source\Repos\selahattin\selahattin\bin\System.Web.Razor.dll
+C:\Users\SELAHATTİN\Source\Repos\selahattin\selahattin\bin\System.Web.Webpages.Deployment.dll
+C:\Users\SELAHATTİN\Source\Repos\selahattin\selahattin\bin\System.Web.Webpages.dll
+C:\Users\SELAHATTİN\Source\Repos\selahattin\selahattin\bin\System.Web.Webpages.Razor.dll
+C:\Users\SELAHATTİN\Source\Repos\selahattin\selahattin\bin\EntityFramework.xml
+C:\Users\SELAHATTİN\Source\Repos\selahattin\selahattin\bin\EntityFramework.SqlServer.xml
+C:\Users\SELAHATTİN\Source\Repos\selahattin\selahattin\bin\System.Web.Razor.xml
+C:\Users\SELAHATTİN\Source\Repos\selahattin\selahattin\bin\System.Web.Webpages.xml
+C:\Users\SELAHATTİN\Source\Repos\selahattin\selahattin\bin\System.Web.Webpages.Deployment.xml
+C:\Users\SELAHATTİN\Source\Repos\selahattin\selahattin\bin\System.Web.Webpages.Razor.xml
+C:\Users\SELAHATTİN\Source\Repos\selahattin\selahattin\bin\System.Web.Helpers.xml
+C:\Users\SELAHATTİN\Source\Repos\selahattin\selahattin\bin\System.Web.Mvc.xml
+C:\Users\SELAHATTİN\Source\Repos\selahattin\selahattin\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\SELAHATTİN\Source\Repos\selahattin\selahattin\bin\tr\System.Web.Razor.resources.dll
+C:\Users\SELAHATTİN\Source\Repos\selahattin\selahattin\bin\tr\System.Web.Webpages.resources.dll
+C:\Users\SELAHATTİN\Source\Repos\selahattin\selahattin\bin\tr\System.Web.Webpages.Deployment.resources.dll
+C:\Users\SELAHATTİN\Source\Repos\selahattin\selahattin\bin\tr\System.Web.Webpages.Razor.resources.dll
+C:\Users\SELAHATTİN\Source\Repos\selahattin\selahattin\bin\tr\System.Web.Helpers.resources.dll
+C:\Users\SELAHATTİN\Source\Repos\selahattin\selahattin\bin\tr\System.Web.Mvc.resources.dll
+C:\Users\SELAHATTİN\Source\Repos\selahattin\selahattin\obj\Debug\selahattin.csprojAssemblyReference.cache
+C:\Users\SELAHATTİN\Source\Repos\selahattin\selahattin\obj\Debug\selahattin.csproj.CopyComplete
+C:\Users\SELAHATTİN\Source\Repos\selahattin\selahattin\obj\Debug\selahattin.dll
+C:\Users\SELAHATTİN\Source\Repos\selahattin\selahattin\obj\Debug\selahattin.pdb
+C:\Users\SELAHATTİN\Desktop\selahattin\selahattin\bin\selahattin.dll.config
+C:\Users\SELAHATTİN\Desktop\selahattin\selahattin\bin\selahattin.dll
+C:\Users\SELAHATTİN\Desktop\selahattin\selahattin\bin\selahattin.pdb
+C:\Users\SELAHATTİN\Desktop\selahattin\selahattin\bin\roslyn\csc.exe
+C:\Users\SELAHATTİN\Desktop\selahattin\selahattin\bin\roslyn\csc.exe.config
+C:\Users\SELAHATTİN\Desktop\selahattin\selahattin\bin\roslyn\csc.rsp
+C:\Users\SELAHATTİN\Desktop\selahattin\selahattin\bin\roslyn\csi.exe
+C:\Users\SELAHATTİN\Desktop\selahattin\selahattin\bin\roslyn\csi.exe.config
+C:\Users\SELAHATTİN\Desktop\selahattin\selahattin\bin\roslyn\csi.rsp
+C:\Users\SELAHATTİN\Desktop\selahattin\selahattin\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\SELAHATTİN\Desktop\selahattin\selahattin\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\SELAHATTİN\Desktop\selahattin\selahattin\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\SELAHATTİN\Desktop\selahattin\selahattin\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\SELAHATTİN\Desktop\selahattin\selahattin\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\SELAHATTİN\Desktop\selahattin\selahattin\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\SELAHATTİN\Desktop\selahattin\selahattin\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\SELAHATTİN\Desktop\selahattin\selahattin\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\SELAHATTİN\Desktop\selahattin\selahattin\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\SELAHATTİN\Desktop\selahattin\selahattin\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\SELAHATTİN\Desktop\selahattin\selahattin\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\SELAHATTİN\Desktop\selahattin\selahattin\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\SELAHATTİN\Desktop\selahattin\selahattin\bin\roslyn\System.AppContext.dll
+C:\Users\SELAHATTİN\Desktop\selahattin\selahattin\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\SELAHATTİN\Desktop\selahattin\selahattin\bin\roslyn\System.Console.dll
+C:\Users\SELAHATTİN\Desktop\selahattin\selahattin\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\SELAHATTİN\Desktop\selahattin\selahattin\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\SELAHATTİN\Desktop\selahattin\selahattin\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\SELAHATTİN\Desktop\selahattin\selahattin\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\SELAHATTİN\Desktop\selahattin\selahattin\bin\roslyn\System.IO.Compression.dll
+C:\Users\SELAHATTİN\Desktop\selahattin\selahattin\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\SELAHATTİN\Desktop\selahattin\selahattin\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\SELAHATTİN\Desktop\selahattin\selahattin\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\SELAHATTİN\Desktop\selahattin\selahattin\bin\roslyn\System.Net.Http.dll
+C:\Users\SELAHATTİN\Desktop\selahattin\selahattin\bin\roslyn\System.Net.Sockets.dll
+C:\Users\SELAHATTİN\Desktop\selahattin\selahattin\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\SELAHATTİN\Desktop\selahattin\selahattin\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\SELAHATTİN\Desktop\selahattin\selahattin\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\SELAHATTİN\Desktop\selahattin\selahattin\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\SELAHATTİN\Desktop\selahattin\selahattin\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\SELAHATTİN\Desktop\selahattin\selahattin\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\SELAHATTİN\Desktop\selahattin\selahattin\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\SELAHATTİN\Desktop\selahattin\selahattin\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\SELAHATTİN\Desktop\selahattin\selahattin\bin\roslyn\System.ValueTuple.dll
+C:\Users\SELAHATTİN\Desktop\selahattin\selahattin\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\SELAHATTİN\Desktop\selahattin\selahattin\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\SELAHATTİN\Desktop\selahattin\selahattin\bin\roslyn\System.Xml.XPath.dll
+C:\Users\SELAHATTİN\Desktop\selahattin\selahattin\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\SELAHATTİN\Desktop\selahattin\selahattin\bin\roslyn\vbc.exe
+C:\Users\SELAHATTİN\Desktop\selahattin\selahattin\bin\roslyn\vbc.exe.config
+C:\Users\SELAHATTİN\Desktop\selahattin\selahattin\bin\roslyn\vbc.rsp
+C:\Users\SELAHATTİN\Desktop\selahattin\selahattin\bin\roslyn\VBCSCompiler.exe
+C:\Users\SELAHATTİN\Desktop\selahattin\selahattin\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\SELAHATTİN\Desktop\selahattin\selahattin\bin\EntityFramework.dll
+C:\Users\SELAHATTİN\Desktop\selahattin\selahattin\bin\EntityFramework.SqlServer.dll
+C:\Users\SELAHATTİN\Desktop\selahattin\selahattin\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\SELAHATTİN\Desktop\selahattin\selahattin\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\SELAHATTİN\Desktop\selahattin\selahattin\bin\System.Web.Helpers.dll
+C:\Users\SELAHATTİN\Desktop\selahattin\selahattin\bin\System.Web.Mvc.dll
+C:\Users\SELAHATTİN\Desktop\selahattin\selahattin\bin\System.Web.Razor.dll
+C:\Users\SELAHATTİN\Desktop\selahattin\selahattin\bin\System.Web.Webpages.Deployment.dll
+C:\Users\SELAHATTİN\Desktop\selahattin\selahattin\bin\System.Web.Webpages.dll
+C:\Users\SELAHATTİN\Desktop\selahattin\selahattin\bin\System.Web.Webpages.Razor.dll
+C:\Users\SELAHATTİN\Desktop\selahattin\selahattin\bin\EntityFramework.xml
+C:\Users\SELAHATTİN\Desktop\selahattin\selahattin\bin\EntityFramework.SqlServer.xml
+C:\Users\SELAHATTİN\Desktop\selahattin\selahattin\bin\System.Web.Razor.xml
+C:\Users\SELAHATTİN\Desktop\selahattin\selahattin\bin\System.Web.Webpages.xml
+C:\Users\SELAHATTİN\Desktop\selahattin\selahattin\bin\System.Web.Webpages.Deployment.xml
+C:\Users\SELAHATTİN\Desktop\selahattin\selahattin\bin\System.Web.Webpages.Razor.xml
+C:\Users\SELAHATTİN\Desktop\selahattin\selahattin\bin\System.Web.Helpers.xml
+C:\Users\SELAHATTİN\Desktop\selahattin\selahattin\bin\System.Web.Mvc.xml
+C:\Users\SELAHATTİN\Desktop\selahattin\selahattin\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\SELAHATTİN\Desktop\selahattin\selahattin\bin\tr\System.Web.Razor.resources.dll
+C:\Users\SELAHATTİN\Desktop\selahattin\selahattin\bin\tr\System.Web.Webpages.resources.dll
+C:\Users\SELAHATTİN\Desktop\selahattin\selahattin\bin\tr\System.Web.Webpages.Deployment.resources.dll
+C:\Users\SELAHATTİN\Desktop\selahattin\selahattin\bin\tr\System.Web.Webpages.Razor.resources.dll
+C:\Users\SELAHATTİN\Desktop\selahattin\selahattin\bin\tr\System.Web.Helpers.resources.dll
+C:\Users\SELAHATTİN\Desktop\selahattin\selahattin\bin\tr\System.Web.Mvc.resources.dll
+C:\Users\SELAHATTİN\Desktop\selahattin\selahattin\obj\Debug\selahattin.csproj.CopyComplete
+C:\Users\SELAHATTİN\Desktop\selahattin\selahattin\obj\Debug\selahattin.dll
+C:\Users\SELAHATTİN\Desktop\selahattin\selahattin\obj\Debug\selahattin.pdb
+C:\Users\SELAHATTİN\Desktop\selahattin\selahattin\obj\Debug\selahattin.csprojAssemblyReference.cache
+C:\Users\SELAHATTİN\Desktop\dosyalar\asp.net mvc projeler\selahattin\selahattin\bin\selahattin.dll.config
+C:\Users\SELAHATTİN\Desktop\dosyalar\asp.net mvc projeler\selahattin\selahattin\bin\selahattin.dll
+C:\Users\SELAHATTİN\Desktop\dosyalar\asp.net mvc projeler\selahattin\selahattin\bin\selahattin.pdb
+C:\Users\SELAHATTİN\Desktop\dosyalar\asp.net mvc projeler\selahattin\selahattin\bin\roslyn\csc.exe
+C:\Users\SELAHATTİN\Desktop\dosyalar\asp.net mvc projeler\selahattin\selahattin\bin\roslyn\csc.exe.config
+C:\Users\SELAHATTİN\Desktop\dosyalar\asp.net mvc projeler\selahattin\selahattin\bin\roslyn\csc.rsp
+C:\Users\SELAHATTİN\Desktop\dosyalar\asp.net mvc projeler\selahattin\selahattin\bin\roslyn\csi.exe
+C:\Users\SELAHATTİN\Desktop\dosyalar\asp.net mvc projeler\selahattin\selahattin\bin\roslyn\csi.exe.config
+C:\Users\SELAHATTİN\Desktop\dosyalar\asp.net mvc projeler\selahattin\selahattin\bin\roslyn\csi.rsp
+C:\Users\SELAHATTİN\Desktop\dosyalar\asp.net mvc projeler\selahattin\selahattin\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\SELAHATTİN\Desktop\dosyalar\asp.net mvc projeler\selahattin\selahattin\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\SELAHATTİN\Desktop\dosyalar\asp.net mvc projeler\selahattin\selahattin\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\SELAHATTİN\Desktop\dosyalar\asp.net mvc projeler\selahattin\selahattin\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\SELAHATTİN\Desktop\dosyalar\asp.net mvc projeler\selahattin\selahattin\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\SELAHATTİN\Desktop\dosyalar\asp.net mvc projeler\selahattin\selahattin\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\SELAHATTİN\Desktop\dosyalar\asp.net mvc projeler\selahattin\selahattin\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\SELAHATTİN\Desktop\dosyalar\asp.net mvc projeler\selahattin\selahattin\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\SELAHATTİN\Desktop\dosyalar\asp.net mvc projeler\selahattin\selahattin\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\SELAHATTİN\Desktop\dosyalar\asp.net mvc projeler\selahattin\selahattin\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\SELAHATTİN\Desktop\dosyalar\asp.net mvc projeler\selahattin\selahattin\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\SELAHATTİN\Desktop\dosyalar\asp.net mvc projeler\selahattin\selahattin\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\SELAHATTİN\Desktop\dosyalar\asp.net mvc projeler\selahattin\selahattin\bin\roslyn\System.AppContext.dll
+C:\Users\SELAHATTİN\Desktop\dosyalar\asp.net mvc projeler\selahattin\selahattin\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\SELAHATTİN\Desktop\dosyalar\asp.net mvc projeler\selahattin\selahattin\bin\roslyn\System.Console.dll
+C:\Users\SELAHATTİN\Desktop\dosyalar\asp.net mvc projeler\selahattin\selahattin\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\SELAHATTİN\Desktop\dosyalar\asp.net mvc projeler\selahattin\selahattin\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\SELAHATTİN\Desktop\dosyalar\asp.net mvc projeler\selahattin\selahattin\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\SELAHATTİN\Desktop\dosyalar\asp.net mvc projeler\selahattin\selahattin\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\SELAHATTİN\Desktop\dosyalar\asp.net mvc projeler\selahattin\selahattin\bin\roslyn\System.IO.Compression.dll
+C:\Users\SELAHATTİN\Desktop\dosyalar\asp.net mvc projeler\selahattin\selahattin\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\SELAHATTİN\Desktop\dosyalar\asp.net mvc projeler\selahattin\selahattin\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\SELAHATTİN\Desktop\dosyalar\asp.net mvc projeler\selahattin\selahattin\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\SELAHATTİN\Desktop\dosyalar\asp.net mvc projeler\selahattin\selahattin\bin\roslyn\System.Net.Http.dll
+C:\Users\SELAHATTİN\Desktop\dosyalar\asp.net mvc projeler\selahattin\selahattin\bin\roslyn\System.Net.Sockets.dll
+C:\Users\SELAHATTİN\Desktop\dosyalar\asp.net mvc projeler\selahattin\selahattin\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\SELAHATTİN\Desktop\dosyalar\asp.net mvc projeler\selahattin\selahattin\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\SELAHATTİN\Desktop\dosyalar\asp.net mvc projeler\selahattin\selahattin\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\SELAHATTİN\Desktop\dosyalar\asp.net mvc projeler\selahattin\selahattin\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\SELAHATTİN\Desktop\dosyalar\asp.net mvc projeler\selahattin\selahattin\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\SELAHATTİN\Desktop\dosyalar\asp.net mvc projeler\selahattin\selahattin\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\SELAHATTİN\Desktop\dosyalar\asp.net mvc projeler\selahattin\selahattin\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\SELAHATTİN\Desktop\dosyalar\asp.net mvc projeler\selahattin\selahattin\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\SELAHATTİN\Desktop\dosyalar\asp.net mvc projeler\selahattin\selahattin\bin\roslyn\System.ValueTuple.dll
+C:\Users\SELAHATTİN\Desktop\dosyalar\asp.net mvc projeler\selahattin\selahattin\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\SELAHATTİN\Desktop\dosyalar\asp.net mvc projeler\selahattin\selahattin\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\SELAHATTİN\Desktop\dosyalar\asp.net mvc projeler\selahattin\selahattin\bin\roslyn\System.Xml.XPath.dll
+C:\Users\SELAHATTİN\Desktop\dosyalar\asp.net mvc projeler\selahattin\selahattin\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\SELAHATTİN\Desktop\dosyalar\asp.net mvc projeler\selahattin\selahattin\bin\roslyn\vbc.exe
+C:\Users\SELAHATTİN\Desktop\dosyalar\asp.net mvc projeler\selahattin\selahattin\bin\roslyn\vbc.exe.config
+C:\Users\SELAHATTİN\Desktop\dosyalar\asp.net mvc projeler\selahattin\selahattin\bin\roslyn\vbc.rsp
+C:\Users\SELAHATTİN\Desktop\dosyalar\asp.net mvc projeler\selahattin\selahattin\bin\roslyn\VBCSCompiler.exe
+C:\Users\SELAHATTİN\Desktop\dosyalar\asp.net mvc projeler\selahattin\selahattin\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\SELAHATTİN\Desktop\dosyalar\asp.net mvc projeler\selahattin\selahattin\bin\EntityFramework.dll
+C:\Users\SELAHATTİN\Desktop\dosyalar\asp.net mvc projeler\selahattin\selahattin\bin\EntityFramework.SqlServer.dll
+C:\Users\SELAHATTİN\Desktop\dosyalar\asp.net mvc projeler\selahattin\selahattin\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\SELAHATTİN\Desktop\dosyalar\asp.net mvc projeler\selahattin\selahattin\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\SELAHATTİN\Desktop\dosyalar\asp.net mvc projeler\selahattin\selahattin\bin\System.Web.Helpers.dll
+C:\Users\SELAHATTİN\Desktop\dosyalar\asp.net mvc projeler\selahattin\selahattin\bin\System.Web.Mvc.dll
+C:\Users\SELAHATTİN\Desktop\dosyalar\asp.net mvc projeler\selahattin\selahattin\bin\System.Web.Razor.dll
+C:\Users\SELAHATTİN\Desktop\dosyalar\asp.net mvc projeler\selahattin\selahattin\bin\System.Web.Webpages.Deployment.dll
+C:\Users\SELAHATTİN\Desktop\dosyalar\asp.net mvc projeler\selahattin\selahattin\bin\System.Web.Webpages.dll
+C:\Users\SELAHATTİN\Desktop\dosyalar\asp.net mvc projeler\selahattin\selahattin\bin\System.Web.Webpages.Razor.dll
+C:\Users\SELAHATTİN\Desktop\dosyalar\asp.net mvc projeler\selahattin\selahattin\bin\EntityFramework.xml
+C:\Users\SELAHATTİN\Desktop\dosyalar\asp.net mvc projeler\selahattin\selahattin\bin\EntityFramework.SqlServer.xml
+C:\Users\SELAHATTİN\Desktop\dosyalar\asp.net mvc projeler\selahattin\selahattin\bin\System.Web.Razor.xml
+C:\Users\SELAHATTİN\Desktop\dosyalar\asp.net mvc projeler\selahattin\selahattin\bin\System.Web.Webpages.xml
+C:\Users\SELAHATTİN\Desktop\dosyalar\asp.net mvc projeler\selahattin\selahattin\bin\System.Web.Webpages.Deployment.xml
+C:\Users\SELAHATTİN\Desktop\dosyalar\asp.net mvc projeler\selahattin\selahattin\bin\System.Web.Webpages.Razor.xml
+C:\Users\SELAHATTİN\Desktop\dosyalar\asp.net mvc projeler\selahattin\selahattin\bin\System.Web.Helpers.xml
+C:\Users\SELAHATTİN\Desktop\dosyalar\asp.net mvc projeler\selahattin\selahattin\bin\System.Web.Mvc.xml
+C:\Users\SELAHATTİN\Desktop\dosyalar\asp.net mvc projeler\selahattin\selahattin\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\SELAHATTİN\Desktop\dosyalar\asp.net mvc projeler\selahattin\selahattin\bin\tr\System.Web.Razor.resources.dll
+C:\Users\SELAHATTİN\Desktop\dosyalar\asp.net mvc projeler\selahattin\selahattin\bin\tr\System.Web.Webpages.resources.dll
+C:\Users\SELAHATTİN\Desktop\dosyalar\asp.net mvc projeler\selahattin\selahattin\bin\tr\System.Web.Webpages.Deployment.resources.dll
+C:\Users\SELAHATTİN\Desktop\dosyalar\asp.net mvc projeler\selahattin\selahattin\bin\tr\System.Web.Webpages.Razor.resources.dll
+C:\Users\SELAHATTİN\Desktop\dosyalar\asp.net mvc projeler\selahattin\selahattin\bin\tr\System.Web.Helpers.resources.dll
+C:\Users\SELAHATTİN\Desktop\dosyalar\asp.net mvc projeler\selahattin\selahattin\bin\tr\System.Web.Mvc.resources.dll
+C:\Users\SELAHATTİN\Desktop\dosyalar\asp.net mvc projeler\selahattin\selahattin\obj\Debug\selahattin.csprojAssemblyReference.cache
+C:\Users\SELAHATTİN\Desktop\dosyalar\asp.net mvc projeler\selahattin\selahattin\obj\Debug\selahattin.csproj.CopyComplete
+C:\Users\SELAHATTİN\Desktop\dosyalar\asp.net mvc projeler\selahattin\selahattin\obj\Debug\selahattin.dll
+C:\Users\SELAHATTİN\Desktop\dosyalar\asp.net mvc projeler\selahattin\selahattin\obj\Debug\selahattin.pdb
+C:\Users\selahattin\Desktop\selahattin\selahattin\bin\selahattin.dll.config
+C:\Users\selahattin\Desktop\selahattin\selahattin\bin\selahattin.dll
+C:\Users\selahattin\Desktop\selahattin\selahattin\bin\selahattin.pdb
+C:\Users\selahattin\Desktop\selahattin\selahattin\bin\roslyn\csc.exe
+C:\Users\selahattin\Desktop\selahattin\selahattin\bin\roslyn\csc.exe.config
+C:\Users\selahattin\Desktop\selahattin\selahattin\bin\roslyn\csc.rsp
+C:\Users\selahattin\Desktop\selahattin\selahattin\bin\roslyn\csi.exe
+C:\Users\selahattin\Desktop\selahattin\selahattin\bin\roslyn\csi.exe.config
+C:\Users\selahattin\Desktop\selahattin\selahattin\bin\roslyn\csi.rsp
+C:\Users\selahattin\Desktop\selahattin\selahattin\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\selahattin\Desktop\selahattin\selahattin\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\selahattin\Desktop\selahattin\selahattin\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\selahattin\Desktop\selahattin\selahattin\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\selahattin\Desktop\selahattin\selahattin\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\selahattin\Desktop\selahattin\selahattin\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\selahattin\Desktop\selahattin\selahattin\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\selahattin\Desktop\selahattin\selahattin\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\selahattin\Desktop\selahattin\selahattin\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\selahattin\Desktop\selahattin\selahattin\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\selahattin\Desktop\selahattin\selahattin\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\selahattin\Desktop\selahattin\selahattin\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\selahattin\Desktop\selahattin\selahattin\bin\roslyn\System.AppContext.dll
+C:\Users\selahattin\Desktop\selahattin\selahattin\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\selahattin\Desktop\selahattin\selahattin\bin\roslyn\System.Console.dll
+C:\Users\selahattin\Desktop\selahattin\selahattin\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\selahattin\Desktop\selahattin\selahattin\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\selahattin\Desktop\selahattin\selahattin\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\selahattin\Desktop\selahattin\selahattin\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\selahattin\Desktop\selahattin\selahattin\bin\roslyn\System.IO.Compression.dll
+C:\Users\selahattin\Desktop\selahattin\selahattin\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\selahattin\Desktop\selahattin\selahattin\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\selahattin\Desktop\selahattin\selahattin\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\selahattin\Desktop\selahattin\selahattin\bin\roslyn\System.Net.Http.dll
+C:\Users\selahattin\Desktop\selahattin\selahattin\bin\roslyn\System.Net.Sockets.dll
+C:\Users\selahattin\Desktop\selahattin\selahattin\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\selahattin\Desktop\selahattin\selahattin\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\selahattin\Desktop\selahattin\selahattin\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\selahattin\Desktop\selahattin\selahattin\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\selahattin\Desktop\selahattin\selahattin\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\selahattin\Desktop\selahattin\selahattin\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\selahattin\Desktop\selahattin\selahattin\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\selahattin\Desktop\selahattin\selahattin\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\selahattin\Desktop\selahattin\selahattin\bin\roslyn\System.ValueTuple.dll
+C:\Users\selahattin\Desktop\selahattin\selahattin\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\selahattin\Desktop\selahattin\selahattin\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\selahattin\Desktop\selahattin\selahattin\bin\roslyn\System.Xml.XPath.dll
+C:\Users\selahattin\Desktop\selahattin\selahattin\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\selahattin\Desktop\selahattin\selahattin\bin\roslyn\vbc.exe
+C:\Users\selahattin\Desktop\selahattin\selahattin\bin\roslyn\vbc.exe.config
+C:\Users\selahattin\Desktop\selahattin\selahattin\bin\roslyn\vbc.rsp
+C:\Users\selahattin\Desktop\selahattin\selahattin\bin\roslyn\VBCSCompiler.exe
+C:\Users\selahattin\Desktop\selahattin\selahattin\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\selahattin\Desktop\selahattin\selahattin\bin\EntityFramework.dll
+C:\Users\selahattin\Desktop\selahattin\selahattin\bin\EntityFramework.SqlServer.dll
+C:\Users\selahattin\Desktop\selahattin\selahattin\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\selahattin\Desktop\selahattin\selahattin\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\selahattin\Desktop\selahattin\selahattin\bin\System.Web.Helpers.dll
+C:\Users\selahattin\Desktop\selahattin\selahattin\bin\System.Web.Mvc.dll
+C:\Users\selahattin\Desktop\selahattin\selahattin\bin\System.Web.Razor.dll
+C:\Users\selahattin\Desktop\selahattin\selahattin\bin\System.Web.Webpages.Deployment.dll
+C:\Users\selahattin\Desktop\selahattin\selahattin\bin\System.Web.Webpages.dll
+C:\Users\selahattin\Desktop\selahattin\selahattin\bin\System.Web.Webpages.Razor.dll
+C:\Users\selahattin\Desktop\selahattin\selahattin\bin\EntityFramework.xml
+C:\Users\selahattin\Desktop\selahattin\selahattin\bin\EntityFramework.SqlServer.xml
+C:\Users\selahattin\Desktop\selahattin\selahattin\bin\System.Web.Razor.xml
+C:\Users\selahattin\Desktop\selahattin\selahattin\bin\System.Web.Webpages.xml
+C:\Users\selahattin\Desktop\selahattin\selahattin\bin\System.Web.Webpages.Deployment.xml
+C:\Users\selahattin\Desktop\selahattin\selahattin\bin\System.Web.Webpages.Razor.xml
+C:\Users\selahattin\Desktop\selahattin\selahattin\bin\System.Web.Helpers.xml
+C:\Users\selahattin\Desktop\selahattin\selahattin\bin\System.Web.Mvc.xml
+C:\Users\selahattin\Desktop\selahattin\selahattin\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\selahattin\Desktop\selahattin\selahattin\bin\tr\System.Web.Razor.resources.dll
+C:\Users\selahattin\Desktop\selahattin\selahattin\bin\tr\System.Web.Webpages.resources.dll
+C:\Users\selahattin\Desktop\selahattin\selahattin\bin\tr\System.Web.Webpages.Deployment.resources.dll
+C:\Users\selahattin\Desktop\selahattin\selahattin\bin\tr\System.Web.Webpages.Razor.resources.dll
+C:\Users\selahattin\Desktop\selahattin\selahattin\bin\tr\System.Web.Helpers.resources.dll
+C:\Users\selahattin\Desktop\selahattin\selahattin\bin\tr\System.Web.Mvc.resources.dll
+C:\Users\selahattin\Desktop\selahattin\selahattin\obj\Debug\selahattin.csprojAssemblyReference.cache
+C:\Users\selahattin\Desktop\selahattin\selahattin\obj\Debug\selahattin.csproj.CoreCompileInputs.cache
+C:\Users\selahattin\Desktop\selahattin\selahattin\obj\Debug\selahattin.csproj.CopyComplete
+C:\Users\selahattin\Desktop\selahattin\selahattin\obj\Debug\selahattin.dll
+C:\Users\selahattin\Desktop\selahattin\selahattin\obj\Debug\selahattin.pdb
